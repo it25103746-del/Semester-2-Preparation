@@ -1,4 +1,4 @@
-public class IT25103774Q1{
+public class IT25103746Q1{
     public static void main(String[] args) {
         // a) & b) Declare and initialize variables
         int miles = 26;
@@ -10,6 +10,7 @@ public class IT25103774Q1{
         System.out.println("Total Kilometers: " + kilometers);
     }
 }
+
 
 
 
